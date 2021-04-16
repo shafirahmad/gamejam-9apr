@@ -95,7 +95,7 @@ class Precious(pygame.sprite.Sprite):
 clock = pygame.time.Clock()
 
 pygame.init() 
-pygame.display.set_caption('Mizatorian Apr2020 High-Tech Recovery')
+pygame.display.set_caption('Mizatorian Apr2021 High-Tech Recovery')
 
 HEIGHT=480
 WIDTH=600
@@ -198,10 +198,10 @@ while True:
                         " ",
                         "------>> Recover HI-TEK <<------",
                         " ",
-                        "The evil villain Gazmodo has infiltrated Hi-TEK and is",
+                        "The evil villain Gazmodo has infiltrated HI-TEK and is",
                         "destroying all the high-tech gadgets by throwing them",
                         "off the HI-TEK tower. As the response chief, your job",
-                        "is to save all the hi-tek items from being destroyed.",
+                        "is to save all the gadgets from being destroyed.",
                         " ",
                         "LEFT Arrow = move left",
                         "RIGHT Arrow = move right",
